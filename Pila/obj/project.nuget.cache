@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "jFjmLm2CQ3W0eCaV9uDcm6PbMWULnsAmpGQN2fjLMPukFFlYy6ny/KRemEKTNx8XfX6fVU1zaz7+BusOxDpi5Q==",
+  "success": true,
+  "projectFilePath": "D:\\tarea\\Pila\\Pila\\Pila.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\raque\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\raque\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\raque\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\raque\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
